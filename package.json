@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "@tailwindcss/vite": "^4.3.3",
+    "i": "^0.3.7",
+    "npm": "^11.21.1",
+    "react-toastify": "^11.1.0",
+    "tailwindcss": "^4.3.3"
+  }
+}
